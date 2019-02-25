@@ -1,4 +1,4 @@
-torch==0.4
+torch==0.4.1
 torchvision==0.2
 git+git://github.com/oval-group/logger.git@v0.3#egg=logger
 networkx==2
@@ -6,5 +6,5 @@ matplotlib==2
 tqdm==4.23
 pymongo==3
 sacred==0.7
-visdom==0.1.8
+visdom==0.1.8.5
 plotly==2
